@@ -1,0 +1,1 @@
+<a href="http://www.facebook.com/sharer.php?u=<?php echo get_url(); ?>" target="_blank" title="Click to share"> <button type="button" class="btn btn-primary btn-sm">Share on Facebook</button></a>
